@@ -93,6 +93,7 @@ header{
 
 h1{
     padding-block: 1rem;
+     font-family: "poppins";
 }
 
 .wrapper{
@@ -128,6 +129,7 @@ footer{
     padding-block: 5rem;
     background-color:#00252e;
     color: #ffffff;
+      font-family: "open sans";
     /* padding-inline: 1rem; */
 }
 
