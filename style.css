@@ -30,6 +30,7 @@
 
 body{
     margin: 0;
+     font-family: "open sans";
    
 }
 
@@ -47,7 +48,9 @@ header{
     background-size: contain;
     background-color: var(--VeryPaleCyan);
     padding: .60rem;
-   
+     font-family: "poppins";
+     font-weight: 600;
+    
     
 
 }
